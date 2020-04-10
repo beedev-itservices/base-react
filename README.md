@@ -17,9 +17,8 @@ Commit your code regularly and meaningfully. This helps both you and your team l
 ## Project Set Up
 
 - [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
 - [ ] Clone your OWN version of the repository in your terminal
-- [ ] CD into the project base directory `cd american-football-scoreboard`
+- [ ] CD into the project base directory `cd base-react`
 - [ ] Download project dependencies by running `npm install`
 - [ ] Start up the app using `npm start`
 - [ ] Create a new branch: git checkout -b `<>`.
